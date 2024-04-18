@@ -1,11 +1,12 @@
 {
-  "name": "simpleexpansesmanagerfront",
+  "name": "simple-expenses-manager-front",
   "version": "0.0.1",
-  "description": "The UI for the SimpleExpansesManager",
+  "description": "The UI for the SimpleExpensesManager",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Guy Sharon",
-  "license": "ISC"
+  "license": "MIT",
+  "private": true
 }
