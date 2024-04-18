@@ -1,0 +1,11 @@
+{
+  "name": "simpleexpansesmanagerfront",
+  "version": "0.0.1",
+  "description": "The UI for the SimpleExpansesManager",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Guy Sharon",
+  "license": "ISC"
+}
